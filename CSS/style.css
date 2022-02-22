@@ -1,0 +1,37 @@
+.error {
+    color: red
+}
+
+.success {
+    color: green
+}
+
+#text {
+    color: blue
+}
+
+.orange {
+    background-color: orange;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 3px;
+    word-spacing: 1px;
+}
+
+.yellow {
+    background-color: yellow
+}
+
+.font-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font: size 110px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
